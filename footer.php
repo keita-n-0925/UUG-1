@@ -32,6 +32,7 @@ if (is_home()){
 	wp_enqueue_script('slick-home', get_template_directory_uri() . '/slick/slick.min.js');
 	wp_enqueue_style('slick-css', get_template_directory_uri() . '/slick/slick.css');
 	wp_enqueue_style('slick-css2', get_template_directory_uri() . '/slick/slick-theme.css');
+	wp_enqueue_script('slick-js', get_template_directory_uri() . '/assets/js/home.js');
 }
 //slick読み込み
 ?>

@@ -95,7 +95,11 @@
 			</div>
 		</div>
 	</div>
-	<img id="Rectangle" src="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png" srcset="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png 1x">
+	<ul class="RECT">
+		<li><img id="Rectangl" src="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png" srcset="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png 1x"></li>
+		<li><img id="Rectangl" src="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png" srcset="<?php echo get_template_directory_uri(); ?>/assets/img/Rectangle.png 1x"></li>
+		
+	</ul>
 		
 	
 	<div id="n_26__9" class="________26___9">
